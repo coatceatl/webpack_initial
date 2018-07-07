@@ -1,5 +1,4 @@
 import $ from 'jquery';
 
-$('.title').html('Webpack 4')
-
+import './style.css';
 console.log('webpack 4');
